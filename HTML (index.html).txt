@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ikigai Sushi Menu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Ikigai Sushi მენიუ</h1>
+    </header>
+    <main>
+        <section class="menu-item">
+            <img src="images/sushi1.jpg" alt="სუში 1">
+            <h2>სუში 1</h2>
+            <p>აღწერა სუში 1-ის შესახებ.</p>
+        </section>
+        <section class="menu-item">
+            <img src="images/sushi2.jpg" alt="სუში 2">
+            <h2>სუში 2</h2>
+            <p>აღწერა სუში 2-ის შესახებ.</p>
+        </section>
+        <!-- დაამატეთ სხვა მენიუს ელემენტები აქ -->
+    </main>
+</body>
+</html>
